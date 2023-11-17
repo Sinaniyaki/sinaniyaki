@@ -12,7 +12,18 @@ Pursuing Computing Science at Simon Fraser University, I am deeply engaged in pr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
+## Some of My Projects
 
+- ### [Project Name](link-to-your-project)
+  ![Project Image](link-to-project-image)
+  > Short description of your project. What it does, technologies used, etc.
 
-![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinaniyaki&show_icons=true)
+- ### [Another Project](link-to-your-project)
+  ![Project Image](link-to-project-image)
+  > Another short description.
 
+## Let's Connect!
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sinamniyak/)
+
+![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinaniyaki&show_icons=true&theme=midnight-purple)
