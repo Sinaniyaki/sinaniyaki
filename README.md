@@ -14,14 +14,14 @@ Pursuing Computing Science at Simon Fraser University, I am deeply engaged in pr
 
 ## Some of My Projects
 
-- ### [Project Name](link-to-your-project)
-  ![Project Image](link-to-project-image)
-  > Short description of your project. What it does, technologies used, etc.
+- ### [Dead City: Chronicles (Java 2d Game)](https://github.com/Sinaniyaki/Java-2d-game)
+  <!--![Project Image](link-to-project-image)-->
 
+<!--
 - ### [Another Project](link-to-your-project)
   ![Project Image](link-to-project-image)
   > Another short description.
-
+-->
 ## Let's Connect!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sinamniyaki/)
