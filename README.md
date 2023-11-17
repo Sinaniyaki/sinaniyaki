@@ -22,6 +22,11 @@ Pursuing Computing Science at Simon Fraser University, I am deeply engaged in pr
   ![Project Image](link-to-project-image)
   > Another short description.
 -->
+## Collaborative Work
+
+- ### [Cat-Identifier](https://github.com/alinikan/Cat-Identifier)
+  > Academic group project with Ali Nikan (Neural Network)
+
 ## Let's Connect!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sinamniyaki/)
