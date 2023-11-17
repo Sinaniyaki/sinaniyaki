@@ -24,6 +24,6 @@ Pursuing Computing Science at Simon Fraser University, I am deeply engaged in pr
 
 ## Let's Connect!
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sinamniyak/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sinamniyaki/)
 
 ![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinaniyaki&show_icons=true&theme=midnight-purple)
