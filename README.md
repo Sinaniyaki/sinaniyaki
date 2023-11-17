@@ -1,6 +1,6 @@
 ### Hi there 👋, Sina Niyaki
 #### Software & Database Enthusiast | SFU Computing Science
-![Software & Database Enthusiast | SFU Computing Science](https://github.com/Sinaniyaki/sinaniyaki/blob/main/githubgif.gif)
+![Software & Database Enthusiast | SFU Computing Science]()
 
 Pursuing Computing Science at Simon Fraser University, I am deeply engaged in programming languages, software development, and database management. Alongside my professional aspirations, I harbor a personal fascination for hardware technology.
 
