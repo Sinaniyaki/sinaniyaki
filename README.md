@@ -5,8 +5,8 @@ Pursuing Computing Science at Simon Fraser University, I am deeply engaged in pr
 
 ## Skill and Experiences
 
-* :desktop_computer: C/C++ / Java / Rust /  Python / Assembly
+![C](<icon-url>) ![C++](<icon-url>) ![Java](<icon-url>) ![Rust](<icon-url>) ![Python](<icon-url>) ![Assembly](<icon-url>)
 
 
+![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinaniyaki&show_icons=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sinamniyak/)  
