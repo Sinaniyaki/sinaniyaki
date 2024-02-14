@@ -15,6 +15,7 @@ Pursuing Computing Science at Simon Fraser University, I am deeply engaged in pr
 ## Some of My Projects
 
 - ### [Dead City: Chronicles (Java 2d Game)](https://github.com/Sinaniyaki/Java-2d-game)
+- ### [Exploring the Affective Phenomenon of Anxiety Paper](https://github.com/Sinaniyaki/Research-Paper)
   <!--![Project Image](link-to-project-image)-->
 
 <!--
