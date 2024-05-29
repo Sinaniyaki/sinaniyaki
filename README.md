@@ -18,6 +18,7 @@ Pursuing Computing Science at Simon Fraser University, I am deeply engaged in pr
 - ### [Exploring the Affective Phenomenon of Anxiety Paper](https://github.com/Sinaniyaki/Research-Paper)
 - ### [Analyziing BC Hiking Trails](https://github.com/Sinaniyaki/Trails-Analysis)
 - ### [A Computational Analysis on What Makes Voices to Sound Compelling (Engaging)?](https://github.com/Sinaniyaki/Analysis-on-compelling-voices) 
+- ### [M/M/m/b Queue Simulation](https://github.com/Sinaniyaki/M-M-m-b-queue-simulation)
  <!--![Project Image](link-to-project-image)-->
 
 <!--
