@@ -20,7 +20,7 @@ More about me, I also worked as a server at Earls Restaurant while I was studyin
 - ### [Dead City: Chronicles (Java 2d Game)](https://github.com/Sinaniyaki/Java-2d-game)
 - ### [Exploring the Affective Phenomenon of Anxiety Paper](https://github.com/Sinaniyaki/Research-Paper)
 - ### [Analyziing BC Hiking Trails](https://github.com/Sinaniyaki/Trails-Analysis)
-- ### [A Computational Analysis on What Makes Voices to Sound Compelling (Engaging)?](https://github.com/Sinaniyaki/Analysis-on-compelling-voices) 
+- ### [Voice Appeal Analyzer](https://github.com/Sinaniyaki/Voice-Appeal-Analyzer) 
 - ### [M/M/m/b Queue Simulation](https://github.com/Sinaniyaki/M-M-m-b-queue-simulation)
  <!--![Project Image](link-to-project-image)-->
 
@@ -33,7 +33,7 @@ More about me, I also worked as a server at Earls Restaurant while I was studyin
 
 - ### [Cat-Identifier](https://github.com/alinikan/Cat-Identifier)
   > Group project with Ali Nikan (Neural Network)
-- ### [Machine Learning Personal Game Recomendation System Using](https://github.com/alinikan/GameRecommender)
+- ### [Game Recommender](https://github.com/alinikan/GameRecommender)
   > Group project with Ali Nikan for more info click on the link
 
 ## Let's Connect!
