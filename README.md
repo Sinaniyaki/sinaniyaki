@@ -16,7 +16,7 @@ More about me, I also worked as a server at Earls Restaurant while I was studyin
 
 ## Some of My Projects
 
-- ### [Deep Comparison Between DVR and DeepSDF](https://github.com/Sinaniyaki/Deep-Comparison-Between-DVR-and-DeepSDF)
+- ### [3D Pipeline Optimization & Benchmarking (Deep Comparison Between DVR and DeepSDF)]([https://github.com/Sinaniyaki/Deep-Comparison-Between-DVR-and-DeepSDF](https://github.com/Sinaniyaki/3D-Pipeline-Optimization-and-Benchmarking))
 - ### [Dead City: Chronicles (Java 2d Game)](https://github.com/Sinaniyaki/Java-2d-game)
 - ### [Exploring the Affective Phenomenon of Anxiety Paper](https://github.com/Sinaniyaki/Research-Paper)
 - ### [Analyziing BC Hiking Trails](https://github.com/Sinaniyaki/Trails-Analysis)
