@@ -1,5 +1,3 @@
-![Software & Database Enthusiast | SFU Computing Science](https://github.com/Sinaniyaki/sinaniyaki/blob/main/github-header-image.png)
-
 ### Hi there 👋, I'm Sina
 I'm a 24-year-old programmer, just graduated from Simon Fraser University in October 2025, with a bachelor's degree majoring in Computing Science. Me and my groupmates in different classes in school made some cool projects, which I am going to showcase on this page at the bottom. My favourite language to code in is C++ and Java. Surprisingly, I really enjoyed learning how to code in Assembly. What I liked about Assembly was how it is a low-level language, and we're directly manipulating the computer's architecture.
 
