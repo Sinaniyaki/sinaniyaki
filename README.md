@@ -38,5 +38,3 @@ More about me, I also worked as a server at Earls Restaurant while I was studyin
 ## Let's Connect!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sinamniyaki/)
-
-![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinaniyaki&show_icons=true&theme=midnight-purple)
