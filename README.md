@@ -16,10 +16,10 @@ More about me, I also worked as a server at Earls Restaurant while I was studyin
 
 - ### [3D Pipeline Optimization & Benchmarking (Deep Comparison Between DVR and DeepSDF)](https://github.com/Sinaniyaki/3D-Pipeline-Optimization-and-Benchmarking)
 - ### [Dead City: Chronicles (Java 2d Game)](https://github.com/Sinaniyaki/Java-2d-game)
-- ### [Exploring the Affective Phenomenon of Anxiety Paper](https://github.com/Sinaniyaki/Research-Paper)
+- ### [Voice Appeal Analyzer](https://github.com/Sinaniyaki/Voice-Appeal-Analyzer)
 - ### [Analyziing BC Hiking Trails](https://github.com/Sinaniyaki/Trails-Analysis)
-- ### [Voice Appeal Analyzer](https://github.com/Sinaniyaki/Voice-Appeal-Analyzer) 
 - ### [M/M/m/b Queue Simulation](https://github.com/Sinaniyaki/M-M-m-b-queue-simulation)
+- ### [Exploring the Affective Phenomenon of Anxiety Paper](https://github.com/Sinaniyaki/Research-Paper)
  <!--![Project Image](link-to-project-image)-->
 
 <!--
@@ -29,10 +29,11 @@ More about me, I also worked as a server at Earls Restaurant while I was studyin
 -->
 ## Collaborative Work
 
-- ### [Cat-Identifier](https://github.com/alinikan/Cat-Identifier)
-  > Group project with Ali Nikan (Neural Network)
 - ### [Game Recommender](https://github.com/alinikan/GameRecommender)
   > Group project with Ali Nikan for more info click on the link
+- ### [Cat-Identifier](https://github.com/alinikan/Cat-Identifier)
+  > Group project with Ali Nikan (Neural Network)
+
 
 ## Let's Connect!
 
